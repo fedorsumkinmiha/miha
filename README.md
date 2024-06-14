@@ -19,5 +19,5 @@ miha
             "internalConsoleOptions": "neverOpen",
             "port": 9229
           }        
-    ]
+    ])
 }
