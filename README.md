@@ -17,7 +17,7 @@ miha
             ],
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
-            "port": 9229
+            "port": 9228
           }        
     ])
 }
