@@ -4,7 +4,7 @@ miha
     // Use IntelliSense to learn about possible attributes.
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.1",
+    "version": "0.2.2",
     "configurations": [
         {
             "name": "Debug Jest Tests on Nix",
