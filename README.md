@@ -1,4 +1,4 @@
-# miha
+v# miha
 miha
 {
     // Use IntelliSense to learn about possible attributes.
@@ -17,7 +17,7 @@ miha
             ],
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
-            "port": 1242
+            "port": 0012
           }        
     ])
 }
